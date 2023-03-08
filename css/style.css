@@ -33,12 +33,12 @@
   color: mint;
 }
 
-.resume-page-background {
-  background-color: #99ffce;
-}
-
 #onpage {
   text-decoration: underline;
+}
+
+.resume-page-background {
+  background-color: #99ffce;
 }
 
 #resume-template{
@@ -48,12 +48,8 @@
   background-color: #e6fff3;
 }
 
-#hobbies-page-background {
+.hobbies-page-background {
   background-color: #99ffce;
-}
-	  
-#onpage {
-  text-decoration: underline;
 }
 
 #hobbies-template{
@@ -61,4 +57,31 @@
   margin: 0 auto 5% auto;
   padding: 1% 1% 1% 1%;
   background-color: #e6fff3;
+}
+
+.hotchip-page-background {
+  background-color: #99ffce;
+}
+	  
+#hotchip-template{
+  width: 70%;
+  margin: 0 auto 5% auto;
+  padding: 1% 1% 1% 1%;
+  background-color: #e6fff3;
+}
+
+.center-text {
+  text-align: center;
+}
+.float-left {
+  float: left;
+}
+.float-right {
+  float: right;
+}
+.border-bottom {
+  border-bottom: 1px solid black;
+}
+.clear {
+  clear: both;
 }
