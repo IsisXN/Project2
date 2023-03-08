@@ -36,7 +36,27 @@
 .resume-page-background {
   background-color: #99ffce;
 }
+
+#onpage {
+  text-decoration: underline;
+}
+
 #resume-template{
+  width: 70%;
+  margin: 0 auto 5% auto;
+  padding: 1% 1% 1% 1%;
+  background-color: #e6fff3;
+}
+
+#hobbies-page-background {
+  background-color: #99ffce;
+}
+	  
+#onpage {
+  text-decoration: underline;
+}
+
+#hobbies-template{
   width: 70%;
   margin: 0 auto 5% auto;
   padding: 1% 1% 1% 1%;
