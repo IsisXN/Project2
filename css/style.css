@@ -32,3 +32,13 @@
   background-color: #e6fff3;
   color: mint;
 }
+
+.resume-page-background {
+  background-color: #99ffce;
+}
+#resume-template{
+  width: 70%;
+  margin: 0 auto 5% auto;
+  padding: 1% 1% 1% 1%;
+  background-color: #e6fff3;
+}
